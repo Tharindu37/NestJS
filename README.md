@@ -105,3 +105,16 @@ Generate a new service
 ```
  nest generate service example
 ```
+
+PostgreSQL: CRUD
+```
+npm install --save @nestjs/typeorm typeorm pg
+```
+Create Resource (User) - RESTAPI
+```
+nest g res user
+```
+Install class-validator & class-transformer
+```
+npm i --save class-validator class-transformer
+```
